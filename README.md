@@ -1,12 +1,12 @@
 # About Benjamin Wintersteen
-##### '(he/him/his)'
+##### (he/him/his)
 #### I am a current Colby College student interested in Computer Science 
 #### I am currently learning Natural Language Processing and python
 
 # Here are some ways to reach me
 
-### Email: bowint27@colby.edu
-### Benjamin Wintersteen handshake.com
+#### Email: bowint27@colby.edu
+#### Benjamin Wintersteen on handshake.com
 
 
 <!--
