@@ -1,16 +1,16 @@
 # About Benjamin Wintersteen
 ##### (he/him/his)
 ### Current Studies:
-#### - Natural Language Processing in Python
-#### - Multivariable Calculus
-### 01010101010101010101010101
+#### - Natural Language Processing in Python ⋆˚｡⋆⭒˚👨🏻‍💻｡⋆𖤐⭒๋࣭ ⭑
+#### - Multivariable Calculus ⋆｡ﾟ☁︎｡𝞹🥧⋆｡ ﾟ☾ ﾟ｡⋆
+### 011010100101010100101010101010101010101010101010010101010101010101010010101010101010101
 ### Current Hobbies:
-
-
+#### - Sailing, Frisbee, and Climbing
+#### - Becoming a chess master
+#### - Listening to every music genre ✩°｡⋆⸜ 🎧✮₊˚⊹♡
 # Here are some ways to reach me
-
 #### Email: bowint27@colby.edu
-#### Benjamin Wintersteen on handshake.com
+
 
 
 <!--
