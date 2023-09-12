@@ -1,7 +1,11 @@
 # About Benjamin Wintersteen
 ##### (he/him/his)
-#### I am a current Colby College student interested in Computer Science 
-#### I am currently learning Natural Language Processing and python
+### Current Studies:
+#### - Natural Language Processing in Python
+#### - Multivariable Calculus
+### 01010101010101010101010101
+### Current Hobbies:
+
 
 # Here are some ways to reach me
 
