@@ -1,13 +1,18 @@
 # About Benjamin Wintersteen
-##### (he/him/his)
+##### (he/they)
 ### Current Studies:
+#### - Computer Organization
+#### - Math Reasoning
+### 01101010010101010010101010101010101010101010101001010101010101010101001010101010101010
+### Past Studies:
 #### - Natural Language Processing in Python ⋆˚｡⋆⭒˚👨🏻‍💻｡⋆𖤐⭒๋࣭ ⭑
+#### - Data Structures and Algorithms
+#### - Linear Algebra
 #### - Multivariable Calculus ⋆｡ﾟ☁︎｡𝞹🥧⋆｡ ﾟ☾ ﾟ｡⋆
 ### 01101010010101010010101010101010101010101010101001010101010101010101001010101010101010
 ### Current Hobbies:
 #### - Sailing, Frisbee, and Climbing
 #### - Becoming a chess master
-#### - Listening to every music genre ✩°｡⋆⸜ 🎧✮₊˚⊹♡
 # Here are some ways to reach me
 #### Email: bowint27@colby.edu
 
